@@ -1,0 +1,7 @@
+scipy
+pillow
+imageio
+matplotlib
+seaborn
+scikit-learn
+ipykernel
